@@ -5,7 +5,7 @@
 ### 💻 About Me
 
 - 🧠 Passionate about coding, creativity and solving problems  
-- 💻 Focused on full-stack development / iOS apps / AI projects *(ajusta a lo tuyo)*  
+- 💻 Focused on full-stack development / iOS apps / AI projects 
 - 🕶️ Embracing the unknown and learning every day  
 - 🔒 Privacy, efficiency and minimalism are core values  
 
